@@ -1,2 +1,2 @@
 # git.intro
-First steps for ethical using git
+Simple CI/CD job (html)
